@@ -1,0 +1,52 @@
+*{margin-left: 0%;
+}
+
+.logo{
+    width: 250px;
+    height: 250px;
+}
+
+.cab{
+    display: flex;
+    justify-content: space-between ;
+    background-image: -moz-linear-gradient(rgb(214, 197, 250), rgb(143, 141, 235));
+}
+
+.img2{
+    width: 50%;
+}
+
+.img3{
+    width: 50%;
+}
+
+.img4{
+    width: 50%;
+}
+
+.img5{
+    width: 50%;
+}
+
+.img6{
+    width: 50%;
+}
+
+.img7{
+    width: 50%;
+}
+
+.sec2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec{
+    display: flex;
+    justify-content: space-between;
+}
+
+.botao{
+    width: 30%;
+    background-color: rgb(168, 144, 190);
+}

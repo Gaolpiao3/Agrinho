@@ -1,0 +1,32 @@
+*{margin-left: 0%;}
+
+.logo{
+    width: 250px;
+    height: 250px;
+}
+
+.cab{
+    display: flex;
+    justify-content: space-between;
+    background-image: -moz-linear-gradient(rgb(214, 197, 250), rgb(143, 141, 235));
+}
+.img1{
+    width: 300px;
+    height: 400px;
+}
+
+.sep{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nome{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(143, 141, 235);
+}
+
+.l{
+    color: rgb(143, 141, 235);
+    background-color: rgb(143, 141, 235) ;
+}
